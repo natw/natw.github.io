@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Where to do my logging?
+title: Where to do my logging?
 tags:
 - meditation
 ---
