@@ -1,6 +1,12 @@
 ---
-layout: default
+layout: post
 title: lol
 ---
 
 hey there, this is, like, a post?
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam placerat posuere urna id porta. Nam ut sem nunc. Donec non fermentum elit. Aliquam ac pulvinar leo. Aliquam purus nunc, malesuada ut facilisis sit amet, luctus vitae sapien. Donec in convallis mi. Suspendisse potenti. Pellentesque vel ornare purus. Pellentesque ac tellus et est aliquet vulputate. Nunc et tortor neque, in fringilla eros.
+
+Maecenas in ligula elit, id iaculis massa. Integer augue nisl, pretium eu convallis sed, blandit eu quam. Sed auctor, ligula id auctor tincidunt, lacus nunc accumsan nisi, ac accumsan metus eros at lorem. Nullam vehicula libero ut dolor pretium in sagittis velit varius. In hac habitasse platea dictumst. Maecenas interdum sapien eget mi vulputate sed rutrum velit rhoncus. In at metus ac erat dictum facilisis vitae sit amet mi. Donec rutrum, nunc in dapibus pellentesque, quam risus varius purus, a posuere lacus eros sed lacus. Vivamus vulputate arcu vel enim elementum blandit.
+
+Maecenas sed ornare lorem. Mauris ultrices sagittis porttitor. Ut rutrum lacus vel risus lacinia luctus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean tempor gravida orci, et lacinia ante eleifend rutrum. Etiam facilisis dolor at dui varius in laoreet lectus feugiat. Aliquam commodo lacus sed risus sagittis porta. Fusce tempor ultrices quam, at posuere orci pharetra a. Vivamus viverra blandit mollis.
