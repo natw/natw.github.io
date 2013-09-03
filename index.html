@@ -1,11 +1,8 @@
 ---
 layout: default
 ---
-{% assign post = site.posts.first %}
-<div class="post">
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-  <div class="date">{{ post.date | date: "%b %d, %Y" }}</div>
-  {{ post.content }}
-</div>
+{% assign page = site.posts.first %}
+{% assign content = page.content %}
+{% include post.html %}
 <br />
 <a href="/archive.html"><strong>More Posts...</strong></a></li>

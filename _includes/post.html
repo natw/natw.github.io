@@ -1,6 +1,8 @@
 <div class="post">
   <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
   <div class="date">{{ page.date | date: "%b %d, %Y" }}</div>
-  {{ content }}
+  <div class="content">
+    {{ content }}
+  </div>
   <div class="tags"><strong>Tags</strong>: {{ page.tags | join: ", " }}</div>
 </div>

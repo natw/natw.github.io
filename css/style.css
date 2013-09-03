@@ -2,7 +2,7 @@ body {
 }
 
 div#header {
-    border-bottom: 1px solid #ddd;
+    /* border-bottom: 1px solid #ddd; */
 }
 
 div #menu {
@@ -26,12 +26,12 @@ div#content {
 }
 
 div.post p {
-    font-family: "adobe-garamond-pro";
+    /* font-family: "adobe-garamond-pro"; */
 }
 
 div.post div.date {
     margin-top: -3px;
-    margin-bottom: 5px;
+    margin-bottom: 15px;
     font-size: 80%;
     font-variant: small-caps;
 }
