@@ -1,1 +1,1 @@
-exclude: CNAME, Makefile, README.md
+exclude: [CNAME, Makefile, README.md]
