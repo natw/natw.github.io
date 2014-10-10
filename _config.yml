@@ -1,1 +1,12 @@
 exclude: [CNAME, Makefile, README.md]
+title: shima.su
+email: nat@shima.su
+description: > # this means to ignore newlines until "baseurl:"
+  Nat's blog. lol.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://shima.su" # the base hostname & protocol for your site
+twitter_username: natw
+github_username:  natw
+
+# Build settings
+markdown: kramdown

@@ -4,5 +4,5 @@
   <div class="content">
     {{ content }}
   </div>
-  <div class="tags"><strong>Tags</strong>: {{ page.tags | join: ", " }}</div>
+  {% if page.tags.size > 0 %}<div class="tags"><strong>Tags</strong>: {{ page.tags | join: ", " }}</div>{% endif %}
 </div>
