@@ -1,5 +1,6 @@
+default: serve
 serve:
-	jekyll --server --auto
+	bundle exec jekyll serve --livereload --incremental
 
 build:
-	jekyll
+	bundle exec jekyll
