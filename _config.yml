@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  natw
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
@@ -51,3 +51,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+exclude:
+  - _post_template.md
